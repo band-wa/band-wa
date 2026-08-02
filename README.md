@@ -13,6 +13,3 @@
 <div align="center">
   <img src="./profile/top-langs.svg" width="49%" />
 </div>
-<div align="center">
-  <img src="./profile/pin-stats-organization-github-readme-stats.svg" width="49%" />
-</div>
